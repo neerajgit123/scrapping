@@ -1,6 +1,6 @@
 # Introduction
 
-The goal of this project is to provide CRUD django restframewrok project that everyone can use, which _just works_ out of the box and has the basic setup you can expand on. 
+This project demonstrates web scraping and data manipulation using Python. It retrieves data from a specific webpage and extracts the required information. The extracted data is then stored in a CSV or Excel file.
 
 Project is written with python 3.11.4 in mind.
 ### virtualenv

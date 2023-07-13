@@ -34,6 +34,7 @@ try:
         rows.append(row_data)
 
     df = pd.DataFrame(rows, columns=colums)
-    df.to_csv(f"{today}_records.csv")
+    df.to_csv(f"weather_data_{today}.csv")
+    print('file is created')
 except Exception as e:
     print("No records found")
