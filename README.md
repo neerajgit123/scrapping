@@ -26,5 +26,6 @@ Install project dependencies:
     
     
 Then simply run the temprature_scrapping.py:
+    
     $ python temprature_scrapping.py
 
